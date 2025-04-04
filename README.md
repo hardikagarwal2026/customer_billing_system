@@ -31,8 +31,8 @@ No external dependencies required!
 ```
 customer_billing_system/
 │
-├── customer_billing_system.py   # Main script to run the billing system
-└── README.md                    # You're reading it!
+├── customer_billing_system.py   
+└── README.md                    
 ```
 
 ---
@@ -102,6 +102,3 @@ Developed as a beginner-friendly Python project to practice file I/O, data struc
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
