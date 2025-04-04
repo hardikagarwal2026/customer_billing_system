@@ -75,7 +75,7 @@ Total Amount Payable: Rs. 2000
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/customer_billing_system.git
+   git clone https://github.com/hardikagarwal2026/customer_billing_system.git
    cd customer_billing_system
    ```
 
